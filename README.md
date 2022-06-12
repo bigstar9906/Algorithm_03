@@ -21,7 +21,7 @@
 
 5.Images and corresponding probability that predicted Wrong
 
-![image](https://user-images.githubusercontent.com/52996753/173223394-b89e87ca-cbf8-487a-8675-1a67eea3486a.png)
+![output](https://user-images.githubusercontent.com/52996753/173224351-357d6e7d-e2c9-42da-b92c-7b5b6e187edc.png)
 
 # Model-2
 
